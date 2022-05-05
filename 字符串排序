@@ -39,3 +39,9 @@ void swap( char str1[], char str2[] ){
 
 
 //输入：red yellow blue black white
+//After sorted:
+//black
+//blue
+//red
+//white
+yellow
