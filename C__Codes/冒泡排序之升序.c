@@ -1,5 +1,6 @@
 #include<stdio.h>
 extern void bubble_sort(int arr[],int sz);
+
   //冒泡排序例子
   int main()
   {
