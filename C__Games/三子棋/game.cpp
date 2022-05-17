@@ -110,7 +110,7 @@ int IsFull(char board[ROW][COL], int row, int col)
 			}
 		}
 	}
-	return 1;  //满了
+	return 1;  //棋盘满了
 }
 
 
