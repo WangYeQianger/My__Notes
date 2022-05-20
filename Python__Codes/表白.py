@@ -37,6 +37,7 @@ t.color('#CD5C5C','pink')
 t.write(love,font=('gungsuh',30,),align="center")
 t.up()
 t.hideturtle()
+
 if me != '':
     t.color('black','pink')
     time.sleep(10)
@@ -45,3 +46,4 @@ if me != '':
     t.write(me,font=(20,),align="center",move=True)
 window = t.Screen()
 window.exitonclick()
+
